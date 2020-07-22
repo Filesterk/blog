@@ -1,7 +1,4 @@
-
-.btn{
-
-   
+.btn{   
    &:link,
    &:visited {
    text-transform: uppercase;
@@ -50,9 +47,6 @@
    z-index: -1;
    transition: all .4s;
    }
-   
-   
-   
    
    &--animated {
      animation: moveInBottom .5 ease-out .75s;
